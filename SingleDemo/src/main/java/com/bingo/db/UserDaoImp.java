@@ -1,7 +1,7 @@
 package com.bingo.db;
 
 import com.bingo.bean.User;
-import com.bingo.util.DButil;
+import com.bingo.db.DButil;
 
 import java.sql.*;
 
