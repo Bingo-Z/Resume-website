@@ -13,21 +13,21 @@
 
 # 项目展示
 
-<img src="https://gitee.com/yo1o/drawbed/raw/master/img/2.13.000.png" alt="img" style="zoom: 67%;" />
+<img src="https://gitee.com/yo1o/drawbed/raw/master/img/2.13.000.png" alt="img" style="zoom: 33%;" />
 
 
 
-<img src="C:\Users\Administrator\Desktop\图片\每日图\2.13.001.png" alt="2.13.001" style="zoom:67%;" />
+<img src="C:\Users\Administrator\Desktop\图片\每日图\2.13.001.png" alt="2.13.001" style="zoom: 33%;" />
 
-<img src="https://gitee.com/yo1o/drawbed/raw/master/img/2.13.002.png" alt="2.13.002" style="zoom:67%;" />
+<img src="https://gitee.com/yo1o/drawbed/raw/master/img/2.13.002.png" alt="2.13.002" style="zoom: 33%;" />
 
-<img src="https://gitee.com/yo1o/drawbed/raw/master/img/2.13.003.png" alt="2.13.003" style="zoom:67%;" />
+<img src="https://gitee.com/yo1o/drawbed/raw/master/img/2.13.003.png" alt="2.13.003" style="zoom: 33%;" />
 
-<img src="https://gitee.com/yo1o/drawbed/raw/master/img/2.13.004.png" alt="2.13.004" style="zoom:67%;" />
+<img src="https://gitee.com/yo1o/drawbed/raw/master/img/2.13.004.png" alt="2.13.004" style="zoom: 33%;" />
 
-<img src="https://gitee.com/yo1o/drawbed/raw/master/img/2.13.005.png" alt="2.13.005" style="zoom:67%;" />
+<img src="https://gitee.com/yo1o/drawbed/raw/master/img/2.13.005.png" alt="2.13.005" style="zoom: 33%;" />
 
-<img src="https://gitee.com/yo1o/drawbed/raw/master/img/2.13.006.png" alt="2.13.006" style="zoom:67%;" />
+<img src="https://gitee.com/yo1o/drawbed/raw/master/img/2.13.006.png" alt="2.13.006" style="zoom: 33%;" />
 
 # 下载
 
